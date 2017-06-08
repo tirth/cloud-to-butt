@@ -1,0 +1,24 @@
+{
+  "name": "cloud-to-butt",
+  "version": "1.0.0",
+  "description": "things",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tirth/cloud-to-butt.git"
+  },
+  "keywords": [
+    "cloud",
+    "butt"
+  ],
+  "author": "tirth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tirth/cloud-to-butt/issues"
+  },
+  "homepage": "https://github.com/tirth/cloud-to-butt#readme",
+  "devDependencies": {
+    "jsdom": "^10.1.0"
+  }
+}

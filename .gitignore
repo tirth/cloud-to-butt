@@ -1,1 +1,6 @@
-CloudToButt.pem
+*.js
+*.map
+
+node_modules/
+
+.idea/
